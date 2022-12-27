@@ -1,0 +1,7 @@
+.card{
+    display:flex;
+    position: relative;
+    top:50vh;
+    justify-content: center;
+    
+}
