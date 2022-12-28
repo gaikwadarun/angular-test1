@@ -1,7 +1,27 @@
+.container{
+    border: 10px solid black;
+    height: 100vh;
+    display: flex;
+ justify-content: center;
+ align-items: center;
+}
 .card{
-    display:flex;
-    position: relative;
-    top:50vh;
-    justify-content: center;
+    background-color: aqua;
+    border: 5px solid gray;
+    line-height:2;
+  height: fit-content;
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  
     
+}
+caption{
+    display: grid;
+    margin: 0;
+    padding: 0;
+}
+.user1{
+    width: 200px;
+    margin-left: 10px;
+
 }
