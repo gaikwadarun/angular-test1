@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { Compo1Component } from './component/compo1/compo1.component';
 import { Pipe1Pipe } from './pipe/pipe1.pipe';
 import { LoginpageComponent } from './component/loginpage/loginpage.component';
+import { FbloginpageComponent } from './component/fb1/fbloginpage.component';
 
 
 @NgModule({
@@ -14,6 +15,7 @@ import { LoginpageComponent } from './component/loginpage/loginpage.component';
     Compo1Component,
     Pipe1Pipe,
     LoginpageComponent,
+    FbloginpageComponent,
     
   ],
   imports: [

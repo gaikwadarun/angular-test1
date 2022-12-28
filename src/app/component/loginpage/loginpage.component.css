@@ -21,7 +21,30 @@ caption{
     padding: 0;
 }
 .user1{
-    width: 200px;
-    margin-left: 10px;
+    width: 160px;
+    margin-left: 20px;
+    
 
+}
+.user2{
+    width: 160px;
+    margin-left: 24px;
+
+}
+p{
+    margin-left: 100px;
+    margin-top: 0;
+}
+/* .lab1{
+    margin-top: 40px;
+} */
+.login1{
+    margin: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.btn{
+    margin-left: 120px;
+    margin: top 0;;
+    border: 2px solid red;
 }
