@@ -1,18 +1,22 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap'); 
+
+ 
+
 .container{
     background-color: rgb(63, 112, 131);
     height:100vh;
-    /* border: 5px solid black; */
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .card{
+    font-family: 'DM Sans', sans-serif;
     background-color: white;
     width:175px;
     height: 20em;
     border: 2px solid white;
     text-align: center;
-font-family:Georgia, 'Times New Roman', Times, serif;
     border-radius: 10px;
     text-align: start;
     padding-top: 40px;
