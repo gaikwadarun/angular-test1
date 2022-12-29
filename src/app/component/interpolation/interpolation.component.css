@@ -1,0 +1,30 @@
+.card{
+    background-color: aqua;
+    height: 200px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    line-height: 2;
+    
+}
+.container{
+    height:100vh;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin: 0;
+    padding: 0;
+
+    
+}
+form{
+    margin: 10px;
+    color: brown;
+   
+}
+body{
+    background-color: aqua;
+    height: 100vh;
+}
