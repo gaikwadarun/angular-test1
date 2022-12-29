@@ -7,6 +7,7 @@ import { Compo1Component } from './component/compo1/compo1.component';
 import { Pipe1Pipe } from './pipe/pipe1.pipe';
 import { LoginpageComponent } from './component/loginpage/loginpage.component';
 import { FbloginpageComponent } from './component/fb1/fbloginpage.component';
+import { InterpolationComponent } from './component/interpolation/interpolation.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { FbloginpageComponent } from './component/fb1/fbloginpage.component';
     Pipe1Pipe,
     LoginpageComponent,
     FbloginpageComponent,
+    InterpolationComponent,
     
   ],
   imports: [
