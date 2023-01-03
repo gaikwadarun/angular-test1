@@ -8,6 +8,7 @@ import { Pipe1Pipe } from './pipe/pipe1.pipe';
 import { LoginpageComponent } from './component/loginpage/loginpage.component';
 import { FbloginpageComponent } from './component/fb1/fbloginpage.component';
 import { InterpolationComponent } from './component/interpolation/interpolation.component';
+import { Pipes1Component } from './component/pipes1/pipes1.component';
 
 
 @NgModule({
@@ -18,6 +19,7 @@ import { InterpolationComponent } from './component/interpolation/interpolation.
     LoginpageComponent,
     FbloginpageComponent,
     InterpolationComponent,
+    Pipes1Component,
     
   ],
   imports: [
